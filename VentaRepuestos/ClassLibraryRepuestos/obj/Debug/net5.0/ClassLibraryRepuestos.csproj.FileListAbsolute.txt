@@ -1,0 +1,12 @@
+C:\Users\timea\source\repos\VentaRepuestos\ClassLibraryRepuestos\bin\Debug\net5.0\ClassLibraryRepuestos.deps.json
+C:\Users\timea\source\repos\VentaRepuestos\ClassLibraryRepuestos\bin\Debug\net5.0\ClassLibraryRepuestos.dll
+C:\Users\timea\source\repos\VentaRepuestos\ClassLibraryRepuestos\bin\Debug\net5.0\ref\ClassLibraryRepuestos.dll
+C:\Users\timea\source\repos\VentaRepuestos\ClassLibraryRepuestos\bin\Debug\net5.0\ClassLibraryRepuestos.pdb
+C:\Users\timea\source\repos\VentaRepuestos\ClassLibraryRepuestos\obj\Debug\net5.0\ClassLibraryRepuestos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timea\source\repos\VentaRepuestos\ClassLibraryRepuestos\obj\Debug\net5.0\ClassLibraryRepuestos.AssemblyInfoInputs.cache
+C:\Users\timea\source\repos\VentaRepuestos\ClassLibraryRepuestos\obj\Debug\net5.0\ClassLibraryRepuestos.AssemblyInfo.cs
+C:\Users\timea\source\repos\VentaRepuestos\ClassLibraryRepuestos\obj\Debug\net5.0\ClassLibraryRepuestos.csproj.CoreCompileInputs.cache
+C:\Users\timea\source\repos\VentaRepuestos\ClassLibraryRepuestos\obj\Debug\net5.0\ClassLibraryRepuestos.dll
+C:\Users\timea\source\repos\VentaRepuestos\ClassLibraryRepuestos\obj\Debug\net5.0\ref\ClassLibraryRepuestos.dll
+C:\Users\timea\source\repos\VentaRepuestos\ClassLibraryRepuestos\obj\Debug\net5.0\ClassLibraryRepuestos.pdb
+C:\Users\timea\source\repos\VentaRepuestos\ClassLibraryRepuestos\obj\Debug\net5.0\ClassLibraryRepuestos.csproj.AssemblyReference.cache

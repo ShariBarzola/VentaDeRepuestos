@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "VentaRepuestosConsola/1.0.0": {
+        "dependencies": {
+          "ClassLibraryRepuestos": "1.0.0"
+        },
+        "runtime": {
+          "VentaRepuestosConsola.dll": {}
+        }
+      },
+      "ClassLibraryRepuestos/1.0.0": {
+        "runtime": {
+          "ClassLibraryRepuestos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VentaRepuestosConsola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryRepuestos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
